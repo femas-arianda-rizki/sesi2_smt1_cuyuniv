@@ -1,1 +1,1 @@
-"# CuyUniversity-sesi1-web" 
+Implementasi logika sederhana dengan html, css, js
